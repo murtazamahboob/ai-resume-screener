@@ -1,0 +1,25 @@
+Ayesha Khan
+ayesha.khan@example.com | +92 300 1234567 | Lahore, Pakistan
+
+Summary
+Backend developer with 5 years of experience building Python web
+services, APIs and data pipelines for e-commerce and fintech products.
+
+Experience
+Senior Backend Developer, ShopHub (2021 - Present)
+- Built REST API services in Python and Django serving 200k users
+- Designed PostgreSQL schemas and cut slow queries by 40%
+- Containerised services with Docker and deployed on AWS
+- Added Redis caching that reduced p95 latency from 900ms to 180ms
+- Set up CI/CD pipelines with GitHub Actions
+
+Backend Developer, PayFlow (2019 - 2021)
+- Developed Django APIs and PostgreSQL-backed billing services
+- Wrote automated tests with pytest and reviewed code in Git
+
+Skills
+Python, Django, PostgreSQL, REST API, Docker, Git, AWS, Redis, CI/CD,
+pytest, Linux
+
+Education
+Bachelor of Science in Computer Science, University of the Punjab (2019)
