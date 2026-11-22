@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-resume-screener"
+version = "1.0.0"
+description = "Explainable, offline AI resume screener: scores resumes against a job description with a transparent rubric and evidence for every point."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "Murtaza Mahboob" }]
+keywords = [
+    "resume-screening",
+    "ai-resume-screener",
+    "explainable-ai",
+    "hiring",
+    "recruitment",
+    "offline-ai",
+    "python",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Human Resources",
+    "Topic :: Office/Business",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest==9.2.0"]
+
+[project.scripts]
+resumescreen = "resumescreener.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
