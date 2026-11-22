@@ -1,0 +1,23 @@
+Python Backend Developer
+
+We are hiring a Python Backend Developer to build and maintain our web
+services and APIs.
+
+Required skills:
+- Python
+- Django
+- PostgreSQL
+- REST API design
+- Docker
+- Git
+
+Preferred skills:
+- AWS
+- Redis
+- CI/CD
+
+Experience:
+- Minimum 3 years of experience building backend services
+
+Education:
+- Bachelor's degree in Computer Science or a related field required
