@@ -1,0 +1,22 @@
+Bilal Ahmed
+bilal.ahmed@example.com | +92 321 7654321 | Karachi, Pakistan
+
+Summary
+Python developer with 3 years of experience building web applications
+and internal tools.
+
+Experience
+Python Developer, DataNest (2022 - Present)
+- Built Flask APIs and SQL reporting tools for logistics clients
+- Automated data imports with Python scripts
+- Used Git for version control and code review
+
+Junior Developer, TechBridge (2021 - 2022)
+- Maintained a Django admin panel and fixed bugs
+- Wrote unit tests for Python modules
+
+Skills
+Python, Flask, Django, SQL, Git, HTML, CSS, JavaScript
+
+Education
+Bachelor of Science in Software Engineering (2021)
