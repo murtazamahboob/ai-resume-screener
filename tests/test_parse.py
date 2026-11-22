@@ -3,7 +3,7 @@ from resumescreener import parse_job_description, parse_resume
 
 
 def test_name_email_phone_extracted():
-    r = parse_resume("Dana Lee\n dana@example.com | +1 555 123 4567\nPython developer")
+    r = parse_resume("Dana Lee\ndana@example.com | +1 555 123 4567\nPython developer")
     assert r.name == "Dana Lee"
     assert r.email == "dana@example.com"
     assert r.phone is not None and "555" in r.phone
