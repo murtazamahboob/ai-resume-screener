@@ -1,0 +1,6 @@
+# Pinned runtime dependencies (verified working with Python 3.10+).
+# The screener is stdlib-only — there are no runtime dependencies.
+# Install with:  pip install -r requirements.txt
+
+# Dev / test dependency (also in pyproject.toml [project.optional-dependencies] dev).
+pytest==9.2.0
