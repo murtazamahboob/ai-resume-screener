@@ -1,0 +1,18 @@
+Chen Wei
+chen.wei@example.com | +86 138 0000 1111 | Shanghai, China
+
+Summary
+Frontend-focused developer with 1 year of experience building web
+interfaces for retail dashboards.
+
+Experience
+Frontend Developer, RetailSoft (2025 - Present)
+- Built dashboard components in React and JavaScript
+- Consumed REST APIs built by the backend team
+- Fixed UI bugs and improved page load times
+
+Skills
+Java, JavaScript, React, HTML, CSS, Git
+
+Education
+Bachelor of Science in Computer Science (2025)
