@@ -1,0 +1,23 @@
+Sara Malik
+sara.malik@example.com | +92 333 9876543 | Islamabad, Pakistan
+
+Summary
+Backend engineer with 4 years of experience designing Python APIs and
+data services for healthcare platforms.
+
+Experience
+Backend Engineer, HealthCore (2022 - Present)
+- Own the Python and Django API layer for patient records
+- Modelled clinical data in PostgreSQL with strict access controls
+- Built REST API integrations with partner laboratories
+
+Software Engineer, MediSoft (2020 - 2022)
+- Developed Python services and PostgreSQL reports
+- Collaborated in Git-based code review
+
+Skills
+Python, Django, PostgreSQL, REST API, Git, SQL, Linux, testing
+
+Education
+MSc Data Science, Quaid-i-Azam University (2020)
+Bachelor of Science in Computer Science (2018)
